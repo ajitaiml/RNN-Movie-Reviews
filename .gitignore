@@ -1,0 +1,14 @@
+# Ignore the RNN virtual environment
+RNN/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
